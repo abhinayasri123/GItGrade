@@ -15,17 +15,19 @@ The goal of GitGrade is to help developers understand **how their repositories a
 - Actionable improvement roadmap
 - Clean and intuitive Streamlit UI
 ## 🎯 Why GitGrade?
+
 GitHub repositories are often judged within seconds during hiring reviews.
 GitGrade mirrors this real-world evaluation process by focusing on clarity,
 structure, and maintainability rather than inflated or misleading metrics.
 
 This makes GitGrade especially useful for students and early-career developers
 who want to improve their GitHub profiles for interviews and portfolio reviews.
+## 🎥 Demo Video
+Watch the working demo of GitGrade here:  
+[Click here to watch the demo video](https://drive.google.com/file/d/1rRAjtTttYWKEMGewkmc-bfKlbQX0SswA/view?usp=drivesdk)
 ## ▶️ How to Run Locally
 ```bash
 pip install -r requirements.txt
 python -m streamlit run app.py
 
-## 🎥 Demo Video
-Watch the working demo of GitGrade here:  
-[Click here to watch the demo video](https://drive.google.com/file/d/1rRAjtTttYWKEMGewkmc-bfKlbQX0SswA/view?usp=drivesdk)
+
