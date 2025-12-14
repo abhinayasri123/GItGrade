@@ -25,4 +25,7 @@ who want to improve their GitHub profiles for interviews and portfolio reviews.
 ```bash
 pip install -r requirements.txt
 python -m streamlit run app.py
+## 🎥 Demo Video
+Watch the working demo of GitGrade here:  
+👉 https://drive.google.com/file/d/1rRAjtTttYWKEMGewkmc-bfKlbQX0SswA/view?usp=drivesdk
 
